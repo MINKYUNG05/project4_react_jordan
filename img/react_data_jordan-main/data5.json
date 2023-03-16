@@ -1,0 +1,28 @@
+[
+    {
+        "id": 21,
+        "name": "Air Jordan VII - RETRO",
+        "title": "White / Solar Blue - Black - Varsity Red - Bright  Concord",
+        "year": 2020,
+        "imgUrl": "https://static.nike.com/a/images/gwrbwevtcjgudx6lnpwq/white-solar-blue-black-varsity-red-bright-concord.png",
+        "price": "$200"
+    },
+
+    {
+        "id": 22,
+        "name": "Air Jordan VII - RETRO",
+        "title": "White / Solar Blue - Black - Varsity Red - Bright  Concord",
+        "year": 2020,
+        "imgUrl": "https://static.nike.com/a/images/olfdiaycqpmuwfrcixvp/reflect-silver-bronze-cardinal-red-black.png",
+        "price": "$200"
+    },
+
+    {
+        "id": 23,
+        "name": "Air Jordan VII - RETRO",
+        "title": "White / Solar Blue - Black - Varsity Red - Bright  Concord",
+        "year": 2020,
+        "imgUrl": "https://static.nike.com/a/images/kj4nqskfqnswxrwavjk8/white-true-red-light-silver-tourmaline.png",
+        "price": "$200"
+    }
+]

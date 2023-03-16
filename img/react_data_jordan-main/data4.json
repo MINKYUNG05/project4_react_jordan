@@ -1,0 +1,29 @@
+[
+    {
+        "id": 18,
+        "name": "Air Jordan VII - RETRO",
+        "title": "Neutral Grey / Summit White - Summit White",
+        "year": 2020,
+        "imgUrl": "https://static.nike.com/a/images/da3a9376-9def-409f-8f93-e5a10f9e44e1/neutral-grey-summit-white-summit-white-.png",
+        "price": "$200"
+    },
+
+    {
+        "id": 19,
+        "name": "Air Jordan VII - RETRO",
+        "title": "Black / University Red - Green Plasma - Cool Grey",
+        "year": 2020,
+        "imgUrl": "https://static.nike.com/a/images/rxrps8mpu0jlecvvpf4d/black-university-red-green-plasma-cool-grey.png",
+        "price": "$200"
+    },
+
+    {
+        "id": 20,
+        "name": "Air Jordan VII - RETRO",
+        "title": "Black / University Red - Green Plasma - Cool Grey",
+        "year": 2020,
+        "imgUrl": "https://static.nike.com/a/images/flnis2nc0jnblu8ftwm3/black-university-red-green-plasma-cool-grey.png",
+        "price": "$200"
+    }
+
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 15,
+        "name": "Air Jordan VII - RETRO",
+        "title": "White / Metallic Gold Coin - Deep Royal Blue - Fire Red",
+        "year": 2016,
+        "imgUrl": "https://static.nike.com/a/images/xrsyrv6jz41hcdxxgg84/white-metallic-gold-coin-deep-royal-blue-fire-red-lite-iron-ore.png",
+        "price": "$175"
+    },
+
+    {
+        "id": 16,
+        "name": "Air Jordan VII - RETRO",
+        "title": "White / Metallic Silver - Pure Platinum",
+        "year": 2017,
+      
+        "imgUrl": "https://static.nike.com/a/images/xwmdc6adw28oiflxhzcw/white-metallic-silver-pure-platinum.png",
+        "price": "$175"
+    },
+
+    {
+        "id": 17,
+        "name": "Air Jordan VII - RETRO",
+        "title": "Black / Dark Purple - Dark Steel Grey",
+        "year": 2019,
+        "imgUrl": "https://static.nike.com/a/images/s2s6h0ga5zvmfpfwztdp/black-field-purple-dark-steel-grey.png",
+        "price": "$175"
+    }
+
+]
